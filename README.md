@@ -26,6 +26,3 @@ A Hospital Management System built using ASP.NET Core MVC, Entity Framework Core
 Add-Migration InitialMigration
 Update-Database
 ```
-
-## Author
-Adarsh Abhishek
