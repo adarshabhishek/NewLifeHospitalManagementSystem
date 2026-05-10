@@ -21,8 +21,3 @@ A Hospital Management System built using ASP.NET Core MVC, Entity Framework Core
 - Repository Pattern
 - Multi-Layer Architecture
 
-## Run Migration
-```powershell
-Add-Migration InitialMigration
-Update-Database
-```
