@@ -1,0 +1,61 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Database files
+*.mdf
+*.ldf
+
+# Publish output
+publish/
+
+# Temp files
+tmp/
+temp/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# IIS Express
+iisexpress/
+
+# Visual Studio cache
+*.cache
+*.dbmdl
+
+# Test Results
+TestResults/
+
+# Backup files
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node modules
+node_modules/

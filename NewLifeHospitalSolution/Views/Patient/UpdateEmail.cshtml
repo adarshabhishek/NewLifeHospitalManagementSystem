@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "UpdateEmail";
+}
+
+<h1>Update Email</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+
+        <form method="post" asp-action="UpdateEmail">
+
+            <div class="form-group">
+                <label>Registration ID</label>
+
+                <input type="number"
+                       name="registrationId"
+                       class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label>New Email</label>
+
+                <input type="email"
+                       name="email"
+                       class="form-control" />
+            </div>
+
+            <br />
+
+            <div class="form-group">
+                <input type="submit"
+                       value="Update Email"
+                       class="btn btn-primary" />
+            </div>
+
+        </form>
+
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Patient"
+           asp-action="ViewPatients">
+
+        Back to List
+
+    </a>
+</div>

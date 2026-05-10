@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "CancelMembership";
+}
+
+<h1>Cancel Membership</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+
+        <form method="post" asp-action="CancelMembership">
+
+            <div class="form-group">
+
+                <label>Registration ID</label>
+
+                <input type="number"
+                       name="registrationId"
+                       class="form-control" />
+
+            </div>
+
+            <br />
+
+            <div class="form-group">
+
+                <input type="submit"
+                       value="Delete"
+                       class="btn btn-danger" />
+
+            </div>
+
+        </form>
+
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Patient"
+           asp-action="ViewPatients">
+
+        Back to List
+
+    </a>
+</div>
