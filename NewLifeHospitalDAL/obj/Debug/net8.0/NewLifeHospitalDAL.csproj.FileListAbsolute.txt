@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\bin\Debug\net8.0\NewLifeHospitalDAL.deps.json
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\bin\Debug\net8.0\NewLifeHospitalDAL.runtimeconfig.json
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\bin\Debug\net8.0\NewLifeHospitalDAL.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\bin\Debug\net8.0\NewLifeHospitalDAL.pdb
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.sourcelink.json
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\refint\NewLifeHospitalDAL.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.pdb
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\NewLifeHospitalDAL.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\NewLifeHospitalManagementSystem\NewLifeHospitalDAL\obj\Debug\net8.0\ref\NewLifeHospitalDAL.dll
